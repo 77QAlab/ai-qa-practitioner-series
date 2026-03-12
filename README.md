@@ -4,8 +4,7 @@
 
 **Author:** Tanvi Mittal 
 **Affiliation:** Independent Researcher  
-**ORCID:** [https://orcid.org/XXXX-XXXX-XXXX-XXXX]  
-**DOI:** [Assigned upon Zenodo upload   placeholder]  
+**DOI:** DOI: 10.5281/zenodo.18972360  
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)  
 **Repository:** [https://github.com/77QAlab/ai-qa-practitioner-series]  
 **Version:** 1.0.0  
@@ -299,7 +298,7 @@ ai-qa-practitioner-series/
 If you use, reference, or build upon this tutorial series in your own work, research, presentations, or educational materials, please cite it as follows:
 
 **APA:**
-[Author Last Name], [First Initial]. ([Year]). *From Manual Tester to AI QA Practitioner: A Structured Six-Week Tutorial Series on Testing LLMs and AI Agents* (Version 1.0.0). Zenodo. https://doi.org/[DOI]
+[Mittal], [T]. ([2026]). *From Manual Tester to AI QA Practitioner: A Structured Six-Week Tutorial Series on Testing LLMs and AI Agents* (Version 1.0.0). Zenodo. https://doi.org/[DOI: 10.5281/zenodo.18972360]
 
 **BibTeX:**
 ```bibtex
@@ -309,8 +308,8 @@ If you use, reference, or build upon this tutorial series in your own work, rese
   year         = {[2026]},
   version      = {1.0.0},
   publisher    = {Zenodo},
-  doi          = {[DOI]},
-  url          = {https://doi.org/[DOI]}
+  doi          = {DOI: 10.5281/zenodo.18972360},
+  url          = {https://doi.org/DOI: 10.5281/zenodo.18972360}
 }
 ```
 
